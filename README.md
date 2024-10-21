@@ -2,7 +2,7 @@
 
 Meu nome é Eiddy Willy
 
-- Estou estudando na Alura
+- Estou estudando na( Alura) (https://www.alura.com.br)  
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao compartilhamento dos meus projetos desenvolvidos
 
@@ -11,7 +11,6 @@ Meu nome é Eiddy Willy
 00001125477957sp@al.educacão.sp.gov.br
 
 @eiddywilly
-
 
 https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif
 
