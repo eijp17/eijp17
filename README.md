@@ -6,7 +6,7 @@ Meu nome é Eiddy Willy
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao compartilhamento dos meus projetos desenvolvidos
 
-### Você entrar em contato comigo📫
+### Você entrar em contato comigo 📫
 
 00001125477957sp@al.educacão.sp.gov.br
 
